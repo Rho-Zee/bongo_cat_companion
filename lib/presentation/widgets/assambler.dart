@@ -11,6 +11,6 @@ class Assambler extends ConsumerStatefulWidget {
 class _AssamblerState extends ConsumerState<Assambler> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return SizedBox();
   }
 }
